@@ -1,0 +1,28 @@
+#dogs, #cats, #rats {
+  display: none;
+}
+
+h1 {
+  text-align: center;
+  color: purple;
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+  color: skyblue;
+}
+
+img {
+  max-width: 250px;
+}
+
+.animal-names h2 {
+  display: inline;
+  margin: 10px;
+  text-align: center;
+}
+
+body {
+  background-color: lime;
+}
